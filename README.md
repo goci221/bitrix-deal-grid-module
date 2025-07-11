@@ -11,7 +11,7 @@
 Данные хранятся в таблице `pavel_dealgrid_records`.
 
 ## Установка
-1. Скопировать папку `pavel.dealgrid` в каталог `/bitrix/modules/`.
+1. Скопировать папку `pavel.dealgrid` в каталог `/local/modules/`.
 2. В админке Битрикс: Marketplace → Установленные решения → найти `pavel.dealgrid` → нажать «Установить».
 
 ## Где смотреть
